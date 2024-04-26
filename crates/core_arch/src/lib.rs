@@ -3,6 +3,8 @@
 #![allow(dead_code)]
 #![allow(unused_features)]
 #![allow(internal_features)]
+#![allow(unknown_lints)]
+#![allow(missing_unsafe_on_extern)]
 #![deny(rust_2018_idioms)]
 #![feature(
     custom_inner_attributes,
